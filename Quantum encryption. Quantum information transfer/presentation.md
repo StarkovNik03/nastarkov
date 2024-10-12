@@ -139,6 +139,3 @@ img[alt~="center"] {
 1. Квантовая криптография / шифрование [Электронный ресурс]: TAdviser. URL: https://www.tadviser.ru/index.php/Статья:Квантовая_криптография_(шифрование) (дата обращения: 01.07.2023).
 2. Quantum Cryptography: An Overview of the Future of Encryption. URL: https://cybertalents.com/blog/quantum-cryptography (дата обращения: 04.07.2023).
 3. BB84 [Электронный ресурс]: URL: https://ru.wikipedia.org/wiki/BB84 (дата обращения 04.07.2023).
-
-
-
